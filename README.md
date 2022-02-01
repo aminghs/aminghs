@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Amin, a Frontend developer 👨‍💻 </div>  
+### <div align="center">I'm Amin, a Frontend web developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on React projects  
