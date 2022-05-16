@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on React projects  
   
 
-- 🌱 I’m currently learning DevOps  
+- 🌱 I’m currently learning other frontend tehcnologies and frameworks  
   
 
 - ❓ Ask me about anything related to Frontend and related technologies  
